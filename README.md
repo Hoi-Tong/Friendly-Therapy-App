@@ -55,4 +55,5 @@ The app will be available at `http://localhost:3000`. It will automatically relo
 
 ## Contributing
 
-We welcome contributions! Please feel free to open an issue or submit a pull request if you would like to help improve the project.
+I welcome contributions! Please feel free to open an issue or submit a pull request if you would like to help improve the project.
+
